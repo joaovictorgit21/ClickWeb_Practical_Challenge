@@ -33,11 +33,9 @@ Para a clonagem do repositório na sua maquina, siga o comando a baixo:
 # 👨‍💻 Programador
 
 | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/111014716?s=400&u=5d8ff835762bc44c2651472ac96f0f9fc1f953a6&v=4" width=95><br><sub>João Victor Farias</sub>](https://github.com/joaovictorgit21)
-
 | :--: |
 
 # 📲 Designer 
 
 | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/5519736?s=200&v=4" width=95><br><sub>Clickweb</sub>](https://github.com/Clickweb)
-
 | :---: |
