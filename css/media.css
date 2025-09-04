@@ -84,6 +84,11 @@
 
 @media (max-width: 410px) {
 
+    .row-img{
+        position: relative;
+        left: -25%;
+    }
+
     .receive-news > h1{
         display: flex;
         width: 30rem;
@@ -97,6 +102,12 @@
 }
 
 @media (max-width: 550px) {
+
+    .row-img{
+        position: relative;
+        left: -25%;
+    }
+
     .menu,
     .entry{
         display: none;
@@ -104,6 +115,11 @@
 }
 
 @media (max-width: 600px) {
+
+    .row-img{
+        position: relative;
+        left: -25%;
+    }
 
     .receive-news > h1{
         display: flex;
@@ -123,6 +139,11 @@
 }
 
 @media (max-width: 620px) {
+
+    .row-img{
+        position: relative;
+        left: -25%;
+    }
 
     .receive-news > h1{
         display: flex;
@@ -166,6 +187,11 @@
 }
 
 @media (max-width: 680px) {
+
+    .row-img{
+        position: relative;
+        left: -5%;
+    }
 
     .receive-news > h1{
         display: flex;
