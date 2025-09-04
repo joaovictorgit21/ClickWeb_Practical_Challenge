@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap')
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap');
 
 body, html {
     margin: 0;
@@ -325,7 +325,7 @@ ul > li{
     flex-wrap: nowrap;
     gap: 2rem;
     position: relative;
-    left: 25%;
+    left: 35.6%;
 }
 
 .instagram-icon,
