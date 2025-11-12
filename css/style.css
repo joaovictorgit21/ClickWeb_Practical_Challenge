@@ -90,11 +90,13 @@ button:hover {
   transform: scale(1.02);
 }
 
-.btn-start:hover,
-.btn-register:hover,
-.header-btn:hover {
+.btn-register:hover {
+    background-color: #506849;
+}
+
+.btn-start:hover {
   background-color: #546e4d !important;
-  border-color: #F6C63B !important;
+  color: #F6C63B !important;
 }
 
 .header-btn:hover h4,
